@@ -1,0 +1,7 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns&#xa;     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph>
+    <node id="111">
+      <data posX="111.0" posY="111.0" radius="30.0" color="#ffffff"/>
+    </node>
+  </graph>
+</graphml>
